@@ -12,31 +12,31 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="35" alt="go logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=redux" height="35" alt="redux logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="35" alt="nestjs logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=jest" height="35" alt="jest logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo"  />
 </div>
 
