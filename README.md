@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Shin Thant, a passionate full-stack developer, and a microservices and design architecture enthusiast. I began my coding journey in 2021 and have been learning and building ever since. My passion for crafting things drives me to learn new things and build with them.</p>
+<p align="left">I'm Shin Thant, a passionate full-stack developer, and a microservices and design architecture enthusiast. I began my coding journey in 2021 and have been learning and building ever since. My passion for crafting things drives me to learn new things and build with them. Check out my <a href="https://medium.com/@shinthant10684">articles.</a></p>
 
 ###
 
